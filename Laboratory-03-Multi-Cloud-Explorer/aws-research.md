@@ -31,4 +31,4 @@ AWS can be used by businesses for web applications, data storage, backup and rec
 
 ## 7. Screenshot
 
-AWS official website or management console screenshot will be added here.
+![AWS Official Website](screenshots/aws-homepage.png)
